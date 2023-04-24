@@ -1,7 +1,7 @@
 # Data Analysis
 Data Analysis portfolio
 
-<h1>Data anylisis covid 19 data</h1>
+<h1>Covid 19 data</h1>
 
 
 Tableau dashboard link
@@ -20,5 +20,5 @@ Microsoft Powred BI mobile picture
 
 <img src="https://github.com/NicksKnack/Covid-Query/blob/main/Microsoft_Power_BI_Mobile.png" alt="Microsoft Powred BI mobile picture">
 
-#Data Profesnial project
+<h1> Data Profesnial Project </h1>
 
