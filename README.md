@@ -20,6 +20,6 @@ Microsoft Powred BI mobile picture
 
 <img src="https://github.com/NicksKnack/Covid-Query/blob/main/Microsoft_Power_BI_Mobile.png" alt="Microsoft Powred BI mobile picture">
 
-<h1> Data Profesnial Project </h1>
+<h1> Data Professionals Project </h1>
 
-<img src="https://github.com/NicksKnack/Data_Analysis/blob/main/Data_Pro_survey.png?raw=true" alt="Data Profesnial">
+<img src="https://github.com/NicksKnack/Data_Analysis/blob/main/Data_Pro_survey.png?raw=true" alt="Data Professionals">
